@@ -1,1 +1,14 @@
+## 📷 Architecture Diagrams
 
+| Diagram | Description |
+|---------|-------------|
+| kubernetes-architecture.png | Kubernetes Cluster Architecture |
+| pod-lifecycle.png | Pod Lifecycle |
+| deployment-flow.png | Deployment & ReplicaSet Flow |
+| service-types.png | ClusterIP, NodePort & LoadBalancer |
+| ingress-flow.png | Ingress Traffic Flow |
+| kubernetes-networking.png | Pod-to-Pod Networking |
+| rbac-diagram.png | RBAC Components |
+| persistent-volume.png | PV & PVC Workflow |
+| probes.png | Liveness, Readiness & Startup Probes |
+| kubernetes-roadmap.png | Kubernetes Learning Roadmap |
